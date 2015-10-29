@@ -21,6 +21,7 @@ Links
 * [JobsRemotely](https://jobsremotely.com/)
 * [Landing Jobs](https://landing.jobs/offers?creation_interface=sidebar&page=1&s=featured&full_remote=on&s_l=0&s_h=100)
 * [Working Nomads](http://www.workingnomads.co/jobs)
+* [Who is hiring](https://whoishiring.io/#!/search/51.800688983409096/16.26030105056816/4/?remote=true)
 * [Xing Projects](https://www.xing.com/projects/search#query=remote) and [Xing Jobs](https://www.xing.com/search/in/jobs?nrs=1&keywords=remote) - Requires registration to the network
 * [LinkedIn Jobs](https://www.linkedin.com/vsearch/j?keywords=remote) - Requires registration to the network
 * [Crew](https://crew.co/users/work_on_projects) - Invite only
@@ -28,4 +29,3 @@ Links
 * [Gun.io](https://gun.io/) - Invite only
 * [Sevendays](https://www.sevendays.co/imafreelancer)
 * [AwesomeWeb](https://www.awesomeweb.com/signup)
-* [Who is hiring](https://whoishiring.io/#!/search/51.800688983409096/16.26030105056816/4/?remote=true)
