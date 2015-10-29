@@ -16,7 +16,7 @@ Links
 * [GitHub Jobs](https://jobs.github.com/positions?description=&location=remote)
 * [CreativePool Jobs](http://creativepool.com/search/jobs/?q=remote)
 * [WFH.io](https://www.wfh.io/)
-* [Slack at Work](http://slackatwork.com/) - Filter: Location: "remote"
+* [Slack at Work](http://slackatwork.com/) - Filter -> Location: "remote"
 * [Hasjob](https://hasjob.co/?l=anywhere)
 * [JobsRemotely](https://jobsremotely.com/)
 * [Landing Jobs](https://landing.jobs/offers?creation_interface=sidebar&page=1&s=featured&full_remote=on&s_l=0&s_h=100)
