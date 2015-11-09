@@ -12,7 +12,7 @@ Links
 * [Frontend Developer Job](http://frontenddeveloperjob.com/) - Filter -> Performed: "remote work" or "remote work possible"
 * [Ionic Jobs](http://jobs.ionic.io/) - Globe icon besides the location means "or remote"
 * [Remote Coder](https://remotecoder.io/)
-* [Authentic Jobs](https://authenticjobs.com/#search=remote)
+* [Authentic Jobs](https://authenticjobs.com/#onlyremote=1)
 * [GitHub Jobs](https://jobs.github.com/positions?description=&location=remote)
 * [CreativePool Jobs](http://creativepool.com/search/jobs/?q=remote)
 * [WFH.io](https://www.wfh.io/)
